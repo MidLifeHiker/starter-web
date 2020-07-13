@@ -25,3 +25,6 @@ This is just more stuff to be different
 lots of more stuff stuff
 When will this end
 
+### Copyright
+This is my stuff, keep your hands off.
+
