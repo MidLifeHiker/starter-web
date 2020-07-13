@@ -9,6 +9,7 @@ Sample website with plenty of files for demos
 ## How to Contribute
 
 This is how
+Just some more info on how to contribute
 
 ### Deployment
 
